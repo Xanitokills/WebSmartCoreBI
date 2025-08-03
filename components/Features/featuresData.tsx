@@ -25,21 +25,21 @@ const featuresData: Feature[] = [
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Detección y Prevención de Fraudes",
+    title: "Creación de Aplicaciones Móviles y Web",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "Personalización de la Experiencia del Cliente",
+    title: "Creación de Soluciones de Inteligencia Artificial",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Plataformas de Gestión y Análisis de Datos",
+    title: "Automatizacion domótica y control de dispositivos IoT", 
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
   },
