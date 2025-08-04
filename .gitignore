@@ -9,9 +9,10 @@
 /coverage
 
 # next.js
-/.next/
-/out/
+/*
+!/static
 !.next/static
+/out/
 # contentlayer
 .contentlayer
 
