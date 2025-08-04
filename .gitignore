@@ -10,8 +10,7 @@
 
 # next.js
 /*
-!/static
-!.next/static
+/.next
 /out/
 # contentlayer
 .contentlayer
