@@ -156,7 +156,8 @@ const Header = () => {
 
          
             <Link
-              href="https://nextjstemplates.com/templates/solid"
+              href="https://wa.me/51946701735?text=¡Hola!%20Deseo%20Información!"
+              target="_blank"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
               Contactar
