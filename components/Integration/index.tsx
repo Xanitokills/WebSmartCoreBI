@@ -230,9 +230,12 @@ const Integration = () => {
             <p className="mb-6 text-body-color dark:text-white">
               Descubre cómo nuestras soluciones pueden optimizar tus operaciones
             </p>
-            <button className="rounded-xl bg-gradient-to-r from-blue-500 to-indigo-600 px-8 py-3 font-semibold text-white shadow-lg transition-all duration-300 hover:scale-105 hover:from-blue-600 hover:to-indigo-700 hover:shadow-xl">
-              Contactar Ahora
-            </button>
+          <button
+  onClick={() => window.open('https://wa.me/51946701735?text=¡Hola!%20 Deseo%20Información!', '_blank')}
+  className="rounded-xl bg-gradient-to-r from-blue-500 to-indigo-600 px-8 py-3 font-semibold text-white shadow-lg transition-all duration-300 hover:scale-105 hover:from-blue-600 hover:to-indigo-700 hover:shadow-xl"
+>
+  Contactar Ahora
+</button>
           </div>
         </div>
       </section>

@@ -56,8 +56,8 @@ const Footer = () => {
                   contact
                 </p>
                 <a
-                  href="#"
-                  className="text-itemtitle font-medium text-black dark:text-white"
+                  href=""
+                  className="mb-3 font-small text-black dark:text-white"
                 >
                 contacto@smartcorebi.com
                 </a>
