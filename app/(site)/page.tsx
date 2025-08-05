@@ -15,7 +15,7 @@ import Integration from "@/components/Integration";
 
 export const metadata: Metadata = {
   title: "Smart Core BI - Decisiones que elevan tu competividad",
-  description: "This is Home for Solid Pro",
+  description: "Desiciones que transforman tu negocio. Somos una empresa de consultoría especializada en Business Intelligence, enfocada en ayudar a las empresas a tomar decisiones estratégicas basadas en datos",
   // other metadata
 };
 

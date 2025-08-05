@@ -13,7 +13,7 @@ const Hero = () => {
     "Inteligencia Artificial",
     "Desarrollo Web",
     "Apps Móviles",
-    "Cloud Computing",
+    "Reportes Business Intelligence",
     "Automatización"
   ];
 
