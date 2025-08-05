@@ -39,14 +39,17 @@ const Footer = () => {
                   <Image
                     width={110}
                     height={80}
-                    src="/images/logo/logo-smart.svg"
+                    src="/images/logo/logo-smart-white.svg"
                     alt="Logo"
                     className="hidden dark:block"
                   />
                 </a>
 
-                <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                <p className="mb-10 mt-5" >
+                  Desiciones que transforman tu negocio. Somos una empresa de
+                  consultoría especializada en Business Intelligence, enfocada en
+                  ayudar a las empresas a tomar decisiones estratégicas basadas
+                  en datos.
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -80,7 +83,7 @@ const Footer = () => {
                   className="animate_top"
                 >
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
-                    Quick Links
+                    Enlaces
                   </h4>
 
                   <ul>
@@ -94,10 +97,10 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="#products"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Product
+                        Productos
                       </a>
                     </li>
                     <li>
@@ -105,21 +108,21 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Careers
+                        Servicios
                       </a>
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="#features"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Pricing
+                        Nosotros
                       </a>
                     </li>
                   </ul>
                 </motion.div>
 
-                <motion.div
+         {/*        <motion.div
                   variants={{
                     hidden: {
                       opacity: 0,
@@ -175,7 +178,7 @@ const Footer = () => {
                       </a>
                     </li>
                   </ul>
-                </motion.div>
+                </motion.div> */}
 
                 <motion.div
                   variants={{
@@ -199,7 +202,7 @@ const Footer = () => {
                     Newsletter
                   </h4>
                   <p className="mb-4 w-[90%]">
-                    Subscribe to receive future updates
+                    Subscribete a nuestro newsletter para recibir las últimas novedades.
                   </p>
 
                   <form action="#">

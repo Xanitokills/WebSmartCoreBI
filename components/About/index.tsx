@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
       {/* <!-- ===== About Start ===== --> */}
-      <section className="overflow-hidden pb-20 lg:pb-25 xl:pb-30">
+  {/*     <section className="overflow-hidden pb-20 lg:pb-25 xl:pb-30">
         <div className="mx-auto max-w-c-1235 px-4 md:px-8 xl:px-0">
           <div className="flex items-center gap-8 lg:gap-32.5">
             <motion.div
@@ -82,7 +82,7 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-Ahora tiempo y procesos                </h3>
+                          Ahora tiempo y procesos                </h3>
                   <p>Ut ultricies lacus non fermentum ultrices.</p>
                 </div>
               </div>
@@ -102,7 +102,7 @@ Ahora tiempo y procesos                </h3>
             </motion.div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* <!-- ===== About End ===== --> */}
 
       {/* <!-- ===== About Two Start ===== --> */}
