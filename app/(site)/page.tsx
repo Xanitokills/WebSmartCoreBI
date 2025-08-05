@@ -14,7 +14,7 @@ import Integration from "@/components/Integration";
  import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Transformación digital con inteligencia : Decisiones que elevan tu competividad",
+  title: "Smart Core BI - Decisiones que elevan tu competividad",
   description: "This is Home for Solid Pro",
   // other metadata
 };
