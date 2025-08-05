@@ -115,7 +115,7 @@ const Hero = () => {
               {/* Stats animados */}
               <div className="flex flex-wrap gap-6 py-6">
                 {[
-                  { number: "150+", label: "Proyectos" },
+                  { number: "15", label: "Proyectos" },
                   { number: "98%", label: "Satisfacción" },
                   { number: "24/7", label: "Soporte" },
                 ].map((stat, index) => (
