@@ -52,11 +52,7 @@ const Hero = () => {
     return () => window.removeEventListener("mousemove", handleMouseMove);
   }, []);
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // Aquí puedes agregar la lógica para manejar el email
-    console.log("Email:", email);
-  };
+
 
   return (
     <>
@@ -137,7 +133,7 @@ const Hero = () => {
 
               {/* Tecnologías */}
               <div className="flex flex-wrap gap-3 pt-6">
-                {["React", "Next.js", "AI/ML", "Cloud", "Mobile"].map((tech, index) => (
+                {["React", "SQL", "AI/ML", "N8N", "Flutter"].map((tech, index) => (
                   <span
                     key={index}
                     className="px-3 py-1 text-sm bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded-full hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors duration-300 cursor-pointer"
