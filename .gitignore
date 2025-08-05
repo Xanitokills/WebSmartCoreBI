@@ -10,7 +10,9 @@
 
 # next.js
 .next
-!.next/static
+!.next/static/css/app
+!.next/static/css/app/(site)
+!.next/static/css/app/(site)/layout.css
 
 /out/
 # contentlayer
