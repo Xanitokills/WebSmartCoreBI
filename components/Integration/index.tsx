@@ -136,7 +136,7 @@ const Integration = () => {
 
   return (
     <>
-      <section className="py-16">
+      <section id="products" className="py-16">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           {/* Section Header */}
           <div className="text-center mb-16 animate-fade-in-up">
