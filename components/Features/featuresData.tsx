@@ -13,7 +13,7 @@ const featuresData: Feature[] = [
     icon: "/images/icon/icon-02.svg",
     title: "Chatbots y Asistentes Virtuales para Atención al Cliente",
     description:
-      "¡Haz que tu atención al cliente sea más eficiente! Descubre cómo los chatbots y asistentes virtuales pueden revolucionar la manera en que interactúas con tus clientes. Contáctanos para obtener una demostración o para conocer cómo esta tecnología puede beneficiar a tu empresa.",
+      "¡Haz que tu atención al cliente sea más eficiente! Descubre cómo los chatbots y asistentes virtuales pueden revolucionar la manera en que interactúas con tus clientes.",
   },
   {
     id: 3,
@@ -27,21 +27,21 @@ const featuresData: Feature[] = [
     icon: "/images/icon/icon-04.svg",
     title: "Creación de Aplicaciones Móviles y Web",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Desarrolla aplicaciones móviles y web personalizadas para tu negocio.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
     title: "Creación de Soluciones de Inteligencia Artificial",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Impulsa tu negocio con soluciones de inteligencia artificial personalizadas. Descubre cómo podemos ayudarte a transformar tus operaciones y mejorar la eficiencia. Contáctanos hoy mismo para una consulta gratuita.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
     title: "Automatizacion domótica y control de dispositivos IoT", 
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Integraciones soluciones de automatización domótica y control de dispositivos IoT para su hogar o negocio.",
   },
 ];
 

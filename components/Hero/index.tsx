@@ -10,10 +10,10 @@ const Hero = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   const texts = [
-    "Inteligencia Artificial",
+    "IA",
     "Desarrollo Web",
     "Apps Móviles",
-    "Reportes Business Intelligence",
+    "Reportes BI",
     "Automatización"
   ];
 
